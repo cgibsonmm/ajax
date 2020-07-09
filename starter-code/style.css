@@ -1,0 +1,11 @@
+.people {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.person-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-basis: 150px;
+}
